@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,13 +13,12 @@
 fundada em 2031, a Cafeteria Docetelie já é destaque na Avenida  e conquista qualquer coração que por ali passa e experimenta.</p>
 <p>Nossa meta é "Proporcionar os melhores cafés e doces de São Paulo"</p>
 <p><i>Oferecemos cafeteiros e confeiteiros  exelentes na área.</i></p>
-<p>Queremos proporcionar uma exelente experiencia gastronomica, agilidade no atendimento e fluxo de pedidos, garantindo clientes satisfeitos e fidelizados.</p>
-<p>Todo doce que aqui é feito recebe uma <b>doce extra de amor</b>, cuidado, e muita, muita dedicação.</p>
-<p>Conheça um pouco do cardápio da Cafeteria Docetelie.</p>
+<p>Queremos proporcionar uma exelente experiencia gastronomica, agilidade no atendimento e fluxo de pedidos, garantindo clientes satisfeitos e fidelizados.
+Todo doce que aqui é feito recebe uma <b>doce extra de amor</b>, cuidado, e muita, muita dedicação.</p>
+<h1>Conheça um pouco do cardápio da Cafeteria Docetelie.</h1>
 
 <h2>Cafés</h2>
 <ul>
-<li>Americano</li>
 <li>Cappuccino</li>
 <li>Double Expresso</li>
 <li>Latte</li>
@@ -29,6 +28,7 @@ fundada em 2031, a Cafeteria Docetelie já é destaque na Avenida  e conquista q
 <li>Expresso</li>
 <li>Chocolato</li>
 <li>Café Mocca</li>
+<li>Americano</li>
 </ul>
 <h2>Doces</h2>
 <ul>
@@ -42,10 +42,17 @@ fundada em 2031, a Cafeteria Docetelie já é destaque na Avenida  e conquista q
 <li>Sonhos de (doce de leite, goiaba, creme, chocolate, nata)</li>
 <li>Folhados</li>
 <li>Banoffee</li>
-
-
-
-
+</ul>
+<h2>Salgados</h2>
+<ul>
+<li>Coxinha</li>
+<li>Pastel (pizza,queijo,carne)</li>
+<li>Empadinha</li>
+<li>Quibe</li>
+<li>Croquete</li>
+<li>Esfirra (queijo,carne,calabresa)</li>
+<li>Croissant Italiano</li>
+</ul>
  
 </body>
 </html>
